@@ -1,0 +1,7 @@
+timestamp=2024-02-24T16:22:20Z level=INFO message="Scheduled maintenance starting" host=webserver1
+timestamp=2024-02-24T16:22:35Z level=ERROR message="Update process failed" error_code=5012 host=webserver1
+timestamp=2024-02-24T16:22:50Z level=DEBUG message="Retrying update process" attempt=1 host=webserver1
+timestamp=2024-02-24T16:23:05Z level=INFO message="Update process completed successfully" host=webserver1
+timestamp=2024-02-24T16:23:20Z level=WARNING message="High memory usage detected" host=webserver1
+timestamp=2024-02-24T16:23:35Z level=ERROR message="Database connection timeout" host=webserver2
+timestamp=2024-02-24T16:23:50Z level=INFO message="New user registered" user_id=789 host=webserver2

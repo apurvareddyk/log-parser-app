@@ -1,0 +1,7 @@
+timestamp=2024-02-24T16:22:15Z metric=cpu_usage_percent host=webserver1 value=72
+timestamp=2024-02-24T16:22:30Z metric=memory_usage_percent host=webserver1 value=85
+timestamp=2024-02-24T16:22:45Z metric=disk_usage_percent mountpoint=/ host=webserver1 value=68
+timestamp=2024-02-24T16:23:30Z metric=cpu_usage_percent host=webserver2 value=65
+timestamp=2024-02-24T16:23:45Z metric=memory_usage_percent host=webserver2 value=90
+timestamp=2024-02-24T16:22:15Z metric=cpu_usage_percent host=webserver1 value=60
+timestamp=2024-02-24T16:22:15Z metric=cpu_usage_percent host=webserver1 value=90
